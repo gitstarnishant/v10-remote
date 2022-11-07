@@ -1,15 +1,15 @@
 {
 	"info": {
-		"_postman_id": "1ec7f0c0-61b9-41a6-8f90-7b5fac1cb370",
+		"_postman_id": "3a9d593e-d411-445d-9f34-f13ccb42684d",
 		"name": "v10-remote-collection",
 		"description": "Buy or rent spacecrafts",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "572314-1ec7f0c0-61b9-41a6-8f90-7b5fac1cb370"
+		"_uid": "572314-3a9d593e-d411-445d-9f34-f13ccb42684d"
 	},
 	"item": [
 		{
 			"name": "Read a spacecraft",
-			"id": "594acf74-a4af-4c01-b0a0-64861065f92f",
+			"id": "47a50723-4df7-4e44-9a10-557626139067",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -41,7 +41,7 @@
 			},
 			"response": [
 				{
-					"id": "1eb65ffd-8263-45d5-9d39-6381b7eb71c5",
+					"id": "8d5b7dd7-422a-43a0-975f-256162bbda02",
 					"name": "The spacecraft corresponding to the provided `spacecraftId`",
 					"originalRequest": {
 						"method": "GET",
@@ -84,7 +84,7 @@
 					"body": "{\n  \"id\": \"<string>\",\n  \"name\": \"minim m\",\n  \"type\": \"station\",\n  \"description\": \"dolore qu\"\n}"
 				},
 				{
-					"id": "9c8340c1-7e14-45ae-a740-54d9cf3cfd07",
+					"id": "c89e62ac-9e4d-4e9d-a68b-c4e3a5ed1509",
 					"name": "No spacecraft found for the provided `spacecraftId`",
 					"originalRequest": {
 						"method": "GET",
@@ -127,7 +127,7 @@
 					"body": "{\n  \"message\": \"sunt nostrud commodo aliquip velit\"\n}"
 				},
 				{
-					"id": "a73d4d81-7cc5-44d6-a10b-65030571520f",
+					"id": "01245b44-0e83-45f6-ab12-a03397a942b5",
 					"name": "Unexpected error",
 					"originalRequest": {
 						"method": "GET",
