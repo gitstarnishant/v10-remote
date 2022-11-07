@@ -8,6 +8,7 @@ rootDirectory = postman/collections
 files[] = {"id":"572314-6450cde8-f345-4059-b449-2eec5f37ce84","path":"New Collection(1).json","metaData":{}}
 files[] = {"id":"572314-279149a1-ca25-4491-b1d4-0f35b3af3593","path":"New Collection.json","metaData":{}}
 files[] = {"id":"572314-3a9d593e-d411-445d-9f34-f13ccb42684d","path":"v10-remote-collection.json","metaData":{}}
+files[] = {"id":"572314-006a7cae-5720-4491-a65d-884c50dde10b","path":"v10remote.json","metaData":{}}
 
 [relations.collections.metaData]
 
