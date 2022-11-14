@@ -6,12 +6,9 @@ id = af46a3b6-448e-4f04-959c-c8054aac3ef4
 [relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"572314-a7dd13ec-1611-4405-a4ae-89f09531b374","path":"New Collection(1).json","metaData":{}}
-files[] = {"id":"572314-f326afb7-38f0-43c7-9c37-9ed9baba9598","path":"New Collection(2).json","metaData":{}}
 files[] = {"id":"572314-538d461d-bb5b-4ffd-b06a-7b411375db5b","path":"New Collection(3).json","metaData":{}}
-files[] = {"id":"572314-f1e05e50-c01a-44f3-ac96-c3cf9e508f8f","path":"New Collection(4).json","metaData":{}}
-files[] = {"id":"572314-f25dbe44-ddc9-4721-beb9-98ee31b3d8b3","path":"New Collection.json","metaData":{}}
-files[] = {"id":"572314-35e269f9-934b-4fdf-93a6-60086b3933b5","path":"v10-remote-collection.json","metaData":{}}
-files[] = {"id":"572314-b66d26ea-64e7-4ece-9106-52e98a46057f","path":"v10remote.json","metaData":{}}
+files[] = {"id":"572314-f1e05e50-c01a-44f3-ac96-c3cf9e508f8f","path":"New Collection.json","metaData":{}}
+files[] = {"id":"572314-f326afb7-38f0-43c7-9c37-9ed9baba9598","path":"v10remote.json","metaData":{}}
 
 [relations.collections.metaData]
 
