@@ -10,6 +10,7 @@ files[] = {"id":"572314-0ebcb685-0ccc-4ed3-afea-2b547214a05e","path":"New Collec
 files[] = {"id":"572314-538d461d-bb5b-4ffd-b06a-7b411375db5b","path":"New Collection(3).json","metaData":{}}
 files[] = {"id":"572314-76d3bb47-18dd-4518-9492-f5033ae391ed","path":"New Collection(4).json","metaData":{}}
 files[] = {"id":"572314-f1e05e50-c01a-44f3-ac96-c3cf9e508f8f","path":"New Collection.json","metaData":{}}
+files[] = {"id":"572314-4e49c1d2-6e03-45b7-86be-d0ed8ffb7fff","path":"s.json","metaData":{}}
 files[] = {"id":"572314-cab10601-4da0-4e00-ad76-adfcddd862dd","path":"v10-remote-collection.json","metaData":{}}
 files[] = {"id":"572314-f326afb7-38f0-43c7-9c37-9ed9baba9598","path":"v10remote.json","metaData":{}}
 
@@ -18,6 +19,7 @@ files[] = {"id":"572314-f326afb7-38f0-43c7-9c37-9ed9baba9598","path":"v10remote.
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
